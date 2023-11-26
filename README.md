@@ -1,6 +1,6 @@
 ![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2023/09/hire-full-stack-developer-1024x536.jpg)
 <h1 align="center">Hi 👋, I'm Isuru</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lnaka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
 
 - 🌱 I’m currently learning **Kafaka , Erlang**
