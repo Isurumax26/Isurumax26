@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Isuru</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lnaka</h3>
 
-- 🌱 I’m currently learning **Kafaka , TypeScript**
+- 🗣 Languages: Java ❤️  - TypeScript - Bash - Python 💔  🍼 - English 
 
 - 📝 I regularly write articles on [https://dev.to/isurumax26](https://dev.to/isurumax26)
 
 - 💬 Ask me about **java , Spring Boot, Angular**
 
-- 📫 How to reach me **isurupro26@gmail.com**
+- 📫  You can reach me at  **isurupro26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
