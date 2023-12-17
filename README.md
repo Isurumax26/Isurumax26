@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isuru</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lnaka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 - 🗣 Languages: Java ❤️  - TypeScript - Bash - Python 💔  🍼 - English 
 
 - 📝 I regularly write articles on [https://dev.to/isurumax26](https://dev.to/isurumax26)
 
-- 💬 Ask me about **java , Spring Boot, Angular**
+- 💬 Ask me about **java, Spring Boot, Angular**
 
 - 📫  You can reach me at  **isurupro26@gmail.com**
 
