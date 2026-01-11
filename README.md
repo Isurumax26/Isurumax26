@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/isurumax26](https://dev.to/isurumax26)
 
-- 💬 Ask me about **java, Spring Boot, Angular**
+- 💬 Ask me about **java, Spring Boot, React, Angular**
 
 - 📫  You can reach me at  **isurupro26@gmail.com**
 
